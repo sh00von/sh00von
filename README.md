@@ -50,8 +50,8 @@ Building web apps, AI tools, and geospatial systems. Currently working at **Todv
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sh00von&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh00von&layout=compact&hide_border=true&theme=default" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sh00von&theme=default" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sh00von&theme=default" height="160" />
 </p>
 
 <p align="center">
