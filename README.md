@@ -16,6 +16,17 @@ Building web apps, AI tools, and geospatial systems. Currently working at **Todv
 
 ---
 
+### Live
+
+| | |
+|---|---|
+| [shovon.bd](https://shovon.bd) | Personal portfolio |
+| [ordify.site](https://ordify.site) | Order management platform |
+| [replyot.com](https://replyot.com) | AI-powered reply tool |
+| [todvob.com](https://todvob.com) | Todvob — where I work |
+
+---
+
 ### Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
