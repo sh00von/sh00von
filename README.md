@@ -47,27 +47,15 @@ Building web apps, AI tools, and geospatial systems. Currently working at **Todv
 
 ---
 
-### Projects
-
-| Project | Stack | Description |
-|---|---|---|
-| [GEE Flood Monitor](https://ee-minarsvn.projects.earthengine.app) | GEE · Sentinel-1 | Near real-time flood extent mapping with population & cropland impact |
-| [Air Quality — Chittagong](https://ee-minarsvn.projects.earthengine.app/view/air-quality-chittagong) | GEE · Sentinel-5P | Seasonal NO₂, SO₂, CO, O₃ variability analysis |
-| [GEE Code Assistant](https://zenith.nexite.site) | RAG · LLM · Python | AI agent that writes Google Earth Engine code from natural language |
-| [Next.js × WordPress Starter](https://github.com/sh00von/next-wordpress-starter) | Next.js 15 · shadcn/ui | Headless WordPress starter with dark mode & Tailwind CSS |
-| [SaaS Starter Kit](https://github.com/sh00von/nextjs-stripe-betterauth-shadcn-starter-kit) | Next.js · Stripe | Full SaaS boilerplate with auth and subscriptions |
-
----
-
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sh00von&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh00von&layout=compact&hide_border=true&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sh00von&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh00von&layout=compact&hide_border=true&theme=default" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sh00von&hide_border=true&theme=default" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sh00von&hide_border=true" height="160" />
 </p>
 
 ---
